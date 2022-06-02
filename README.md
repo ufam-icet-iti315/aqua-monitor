@@ -32,7 +32,7 @@ Documentação do Projeto
 ### 2. Política de Branches deste repositorio.
 
 
-### **Master**
+### **Main**
 
 A master será nossa branch de produção, ou seja, nela estará a versão estável do projeto. E por questões de segurança ela será bloqueada para commits e push.A interação com a master vai se dá através da de Pull requests que virão das branch de documentos.
 
